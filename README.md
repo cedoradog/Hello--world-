@@ -10,7 +10,8 @@ This is my first repo in GitHub.
 
 Finally, this is a list:
 * First item,
-* second item
+* second item,
+* a third item,
 .
 .
 .
